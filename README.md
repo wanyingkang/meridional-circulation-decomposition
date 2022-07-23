@@ -1,5 +1,5 @@
 # meridional-circulation-decomposition
-This code computes the meridional streamfunction and decomposes it into components driven by eddy momentum/heat transport, adiabatic heating and surface friction using Eliasson-Kuo Equation (see Kuo 1956); and it can be used to reproduce the results in Kang et al. 2019 (necessary data included).
+This code computes the meridional streamfunction and decomposes it into components driven by eddy momentum/heat transport, adiabatic heating and surface friction using Kuo-Eliasson Equation (see Kuo 1956); and it can be used to reproduce the results in Kang et al. 2019 (necessary data included).
 
 The data input should be the time-averaged 3D output of a GCM with regular grid. The following variables are required: 
 
